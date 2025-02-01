@@ -1,23 +1,27 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+## <I> Todos os mistérios são ciências que ainda não foram descobertas. </I> 
+
+## Linguagens
+<div align="left">  
+  <img src="https://github.com/user-attachments/assets/b82e9d46-e019-4697-8879-fa6bcbaf6c4b" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/0fc21f5b-2ac6-400f-a103-a9db6510f237" height="40" alt="css3 logo"  />
+  <img src="https://github.com/user-attachments/assets/0fc21f5b-2ac6-400f-a103-a9db6510f237" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
+</div>
+
+## Status
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizadaso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="500" alt="stats graph"  />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" width="500" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizadaso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/luizadaso/" target="_blank">
     <img src="https://github.com/user-attachments/assets/ffd54172-cae1-410c-b9bb-d247bf48760b" height="40" alt="linkedin logo"  /> 
   </a>
