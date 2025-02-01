@@ -13,10 +13,10 @@
 
 ## Status
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizadaso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="500" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" width="500" alt="languages graph" />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" width="500" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luizadaso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="500" alt="stats graph" />
 </div>
 
 ## Contatos
