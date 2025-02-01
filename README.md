@@ -23,13 +23,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luizadaso/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ffd54172-cae1-410c-b9bb-d247bf48760b" height="55" alt="linkedin logo"  /> 
+    <img src="https://github.com/user-attachments/assets/ffd54172-cae1-410c-b9bb-d247bf48760b" height="50" alt="linkedin logo"  /> 
   </a>
   <a href="mailto:analuiza.daso@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/aabe721c-5c19-4093-a504-04feb3fb9d8a" height="55" alt="gmail logo" />
+    <img src="https://github.com/user-attachments/assets/aabe721c-5c19-4093-a504-04feb3fb9d8a" height="50" alt="gmail logo" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5522999955542&text=Ola,+Encontramos+o+seu+portfólio+no+GitHub.+Podemos+conversar?&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://github.com/user-attachments/assets/72cf57ab-1b38-41f3-b06c-1f4df5bb4a84" height="55" alt="whatsapp logo" />
+    <img src="https://github.com/user-attachments/assets/72cf57ab-1b38-41f3-b06c-1f4df5bb4a84" height="50" alt="whatsapp logo" />
   </a>
 </div>
 
