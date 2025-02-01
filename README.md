@@ -2,7 +2,6 @@
 
 ## Linguagens
 <div align="left">  
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <img src="https://github.com/user-attachments/assets/b82e9d46-e019-4697-8879-fa6bcbaf6c4b" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/0fc21f5b-2ac6-400f-a103-a9db6510f237" height="50" alt="javascript logo"  />
@@ -23,7 +22,6 @@
 ###
 
 <div align="left">
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://www.linkedin.com/in/luizadaso/" target="_blank">
     <img src="https://github.com/user-attachments/assets/ffd54172-cae1-410c-b9bb-d247bf48760b" height="55" alt="linkedin logo"  /> 
   </a>
