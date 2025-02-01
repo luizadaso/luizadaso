@@ -34,7 +34,6 @@
 </div>
 
 ## Visualizações do meu perfil
-<br clear="both">
 <img align="left" src="https://profile-counter.glitch.me/luizadaso/count.svg?" />
 
 
