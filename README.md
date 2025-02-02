@@ -2,13 +2,21 @@
 
 ## Linguagens
 <div align="left">  
-  <img src="https://github.com/user-attachments/assets/b82e9d46-e019-4697-8879-fa6bcbaf6c4b" height="53" alt="java logo"  /> &nbsp
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/74203852-f544-460c-ba97-2080ef9bc8ab" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
+  <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b82e9d46-e019-4697-8879-fa6bcbaf6c4b" height="53" alt="java logo"  /> &nbsp
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img width="12" />
+    <img src="https://github.com/user-attachments/assets/74203852-f544-460c-ba97-2080ef9bc8ab" height="50" alt="javascript logo"  />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
+  </a>
 </div>
 
 ## Status
