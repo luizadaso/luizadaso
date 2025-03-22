@@ -10,7 +10,7 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizadaso)](https://github.com/luizadaso/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizadaso/)](https://www.linkedin.com/in/luizadaso/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522999955542&text=Olá,+encontrei+o+seu+portfólio+no+GitHub.+Podemos+conversar?)](https://api.whatsapp.com/send?phone=5522997285662&text=Olá,+encontrei+o+seu+portfólio+no+GitHub.+Podemos+conversar?)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontramos+o+seu+curriculo.+Podemos+conversar?)](https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontramos+o+seu+curriculo.+Podemos+conversar?)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analuiza.daso@gmail.com)](mailto:analuiza.daso@gmail.com)
 
 </br>
