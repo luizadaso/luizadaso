@@ -20,6 +20,13 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" width="500" alt="languages graph" />
 </div>
 
+### Navegação
+Para uma melhor compreensão e organização dos repositórios, defini um letra antes de cada nome de projeto conforme abaixo, sendo a numeração gerada em ordem de criação dos projetos:
+
+P = Projeto Pessoal  
+F = Projeto de Faculdade  
+C = Projeto de Cursos  
+
 ## Visualizações do meu perfil
 <img align="left" src="https://profile-counter.glitch.me/luizadaso/count.svg?" />
 
