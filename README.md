@@ -2,7 +2,7 @@
 
 ## Olá, Devs!
 
-Full-Stack com foco em Java | Software Developer
+Full-Stack com foco em Java | Software Developer | Cursando Ciência da Computação
 
 Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação de poder criar algo totalmente novo, trazer minhas ideias para a realidade, resolver problemas complexos e contribuir com desenvolvimento do mundo é extremamente gratificante para mim!
 
