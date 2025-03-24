@@ -2,7 +2,7 @@
 
 ## Olá, Devs!
 
-Full-Stack com foco em Java | Software Developer | Cursando Ciência da Computação
+##### Full-Stack com foco em Java | Software Developer | Cursando Ciência da Computação
 
 Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação de poder criar algo totalmente novo, trazer minhas ideias para a realidade, resolver problemas complexos e contribuir com desenvolvimento do mundo é extremamente gratificante para mim!
 
@@ -15,7 +15,26 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 
 </br>
 
-## Stacks:
+## 🛠️ Stacks:
+
+##### Linguagens:  
+•	Java, JavaScript, HTML e CSS  
+  
+##### Spring Framework:  
+•	Spring Boot  
+  
+##### Ferramentas:  
+•	Git, GitHub, IntelliJ IDEA, Eclipse e Visual Studio Code  
+  
+##### Microsserviços:  
+•	RESTful APIs, Docker, Kubernetes  
+  
+##### Banco de Dados:  
+•	SQL (PostgreSQL e MySQL) e NoSQL (MongoDB)  
+  
+##### Boas Práticas:  
+•	Clean Code, SOLID e Design Patterns  
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" width="500" alt="languages graph" />
 </div>
