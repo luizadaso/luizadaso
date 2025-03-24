@@ -15,7 +15,7 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 
 </br>
 
-## 🛠️ Stacks:
+## Stacks:
 
 ##### Linguagens:  
 •	Java, JavaScript, HTML e CSS  
