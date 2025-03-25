@@ -20,7 +20,7 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 ##### Linguagens:  
 •	Java, JavaScript, HTML e CSS  
   
-##### Spring Framework:  
+##### Frameworks:  
 •	Spring Boot e Angular  
   
 ##### Ferramentas:  
