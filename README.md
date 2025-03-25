@@ -24,7 +24,7 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 •	Spring Boot e Angular  
   
 ##### Ferramentas:  
-•	Git, GitHub, Node.js, IntelliJ IDEA, Eclipse e Visual Studio Code  
+•	Git, GitHub, Trello, Node.js, IntelliJ IDEA, Eclipse e Visual Studio Code  
   
 ##### Microsserviços:  
 •	RESTful APIs, Docker, Kubernetes  
