@@ -36,7 +36,7 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 •	Clean Code, SOLID e Design Patterns  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" width="500" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizadaso&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" width="400" alt="languages graph" />
 </div>
 
 ### Navegação
@@ -46,7 +46,7 @@ PP = Projeto Pessoal
 FP = Projeto de Faculdade  
 CP = Projeto de Cursos  
 
-## Visualizações do meu perfil
+### Visualizações do meu perfil
 <img align="left" src="https://profile-counter.glitch.me/luizadaso/count.svg?" />
 
 
