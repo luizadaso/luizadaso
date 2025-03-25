@@ -42,9 +42,9 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 ### Navegação
 Para uma melhor compreensão e organização dos repositórios, defini um letra antes de cada nome de projeto conforme abaixo, sendo a numeração gerada em ordem de criação dos projetos:
 
-P = Projeto Pessoal  
-F = Projeto de Faculdade  
-C = Projeto de Cursos  
+PP = Projeto Pessoal  
+FP = Projeto de Faculdade  
+CP = Projeto de Cursos  
 
 ## Visualizações do meu perfil
 <img align="left" src="https://profile-counter.glitch.me/luizadaso/count.svg?" />
