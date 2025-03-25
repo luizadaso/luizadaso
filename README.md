@@ -21,10 +21,10 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 •	Java, JavaScript, HTML e CSS  
   
 ##### Spring Framework:  
-•	Spring Boot  
+•	Spring Boot e Angular  
   
 ##### Ferramentas:  
-•	Git, GitHub, IntelliJ IDEA, Eclipse e Visual Studio Code  
+•	Git, GitHub, Node.js, IntelliJ IDEA, Eclipse e Visual Studio Code  
   
 ##### Microsserviços:  
 •	RESTful APIs, Docker, Kubernetes  
