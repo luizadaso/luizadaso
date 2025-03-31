@@ -1,6 +1,6 @@
 ## <I> Todos os mistérios são ciências que ainda não foram descobertas. </I> 
 
-<img align="right" width="330" src="https://github.com/user-attachments/assets/2391d6ae-7009-4609-8f55-d8e8ee4e5b32">
+<img align="right" width="30%" src="https://github.com/user-attachments/assets/2391d6ae-7009-4609-8f55-d8e8ee4e5b32">
 
 ### Olá, Devs!
 
