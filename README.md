@@ -9,11 +9,13 @@
 Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação de poder criar algo totalmente novo, trazer minhas ideias para a realidade, resolver problemas complexos e contribuir com desenvolvimento do mundo é extremamente gratificante para mim!
 
 ## Contato:
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizadaso)](https://github.com/luizadaso/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizadaso/)](https://www.linkedin.com/in/luizadaso/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontramos+o+seu+curriculo.+Podemos+conversar?)](https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontramos+o+seu+curriculo.+Podemos+conversar?)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analuiza.daso@gmail.com)](mailto:analuiza.daso@gmail.com)
+  <div>
+    <a href="https://instagram.com/luizadaso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" target="_blank"></a>
+    <a href = "mailto:analuiza.daso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px" target="_blank"></a>
+    <a href= "https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontramos+o+seu+curriculo.+Podemos+conversar?" height="25px" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/luizadaso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a>
+     <a href= "https://github.com/luizadaso?tab=repositories" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="25px" target="_blank"></a>
+</div>
 
 </br>
 
