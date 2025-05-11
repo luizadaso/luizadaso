@@ -9,14 +9,16 @@
 Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação de poder criar algo totalmente novo, trazer minhas ideias para a realidade, resolver problemas complexos e contribuir com desenvolvimento do mundo é extremamente gratificante para mim!
 
 ## Contato:
-  <div>
-        <a href="https://www.linkedin.com/in/luizadaso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a>
-    <a href = "mailto:analuiza.daso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px" target="_blank"></a>
-    <a href= "https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontrei+seu+perfil+no+Github.+Podemos+conversar?" height="25px" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" target="_blank"></a> 
-        <!-- [<a href="https://instagram.com/luizadaso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" target="_blank"></a>] -->
-     <a href= "https://luizadaso-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="25px" target="_blank"></a>
-</div>
 
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizadaso/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analuiza.daso@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontrei+seu+perfil+no+Github.+Podemos+conversar?)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizadaso/)
+[![Portfólio](https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge)](https://luizadaso-portfolio.vercel.app/)
+
+</div>
 </br>
 
 ### Habilidades:
@@ -41,7 +43,9 @@ FP = Projeto de Faculdade
 CP = Projeto de Cursos  
 
 ### Visualizações do meu perfil
-<img align="left" src="https://profile-counter.glitch.me/luizadaso/count.svg?" />
-
+<img align="left" src="https://profile-counter.glitch.me/luizadaso/count.svg?"/>
+<!-- <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luizadaso.luizadaso&left_color=violet&right_color=cornflowerblue" width="15%"/>
+</div> -->
 
     
