@@ -15,8 +15,11 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizadaso/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analuiza.daso@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontrei+seu+perfil+no+Github.+Podemos+conversar?)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizadaso/)
 [![Portfólio](https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge)](https://luizadaso-portfolio.vercel.app/)
+
+<!-- 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizadaso/)
+-->
 
 </div>
 </br>
