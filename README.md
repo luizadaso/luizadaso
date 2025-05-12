@@ -1,8 +1,8 @@
 ## <I> Todos os mistérios são ciências que ainda não foram descobertas. </I> 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=5c0d74&vCenter=true&width=435&lines=Ol%C3%A1+Devs!)](https://git.io/typing-svg)
-
 <img align="right" width="30%" src="https://github.com/user-attachments/assets/2391d6ae-7009-4609-8f55-d8e8ee4e5b32">
+
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=5c0d74&vCenter=true&width=435&lines=Ol%C3%A1+Devs!)](https://git.io/typing-svg)
 
 ##### Back-end Java | Software Developer | Cursando Ciência da Computação
 
