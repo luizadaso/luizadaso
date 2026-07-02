@@ -41,9 +41,9 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 
 ### Habilidades:
 
-• Linguagens: Java, JavaScript, HTML e CSS  
-• Tecnologias: SpringBoot, React.js e Vue.js  
-• Ferramentas: IntelliJ IDEA, Visual Studio Code, Git e Github  
+Linguagens: Java, JavaScript
+Tecnologias: Spring Boot, Angular, React e Android SDK
+Ferramentas: IntelliJ IDEA, Visual Studio Code, Git e Github  
 
 #### Idiomas:
 • Português (nativo)  
@@ -59,11 +59,5 @@ Para uma melhor compreensão e organização dos repositórios, defini um letra 
 PP = Projeto Pessoal  
 FP = Projeto de Faculdade  
 CP = Projeto de Cursos  
-
-### Visualizações do meu perfil
-<img align="left" src="https://profile-counter.glitch.me/luizadaso/count.svg?"/>
-<!-- <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luizadaso.luizadaso&left_color=violet&right_color=cornflowerblue" width="15%"/>
-</div> -->
 
     
