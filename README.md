@@ -41,9 +41,9 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 
 ### Habilidades:
 
-Linguagens: Java, JavaScript
-Tecnologias: Spring Boot, Angular, React e Android SDK
-Ferramentas: IntelliJ IDEA, Visual Studio Code, Git e Github  
+• Linguagens: Java, JavaScript  
+• Tecnologias: Spring Boot, Angular, React e Android SDK  
+• Ferramentas: IntelliJ IDEA, Visual Studio Code, Git e Github  
 
 #### Idiomas:
 • Português (nativo)  
