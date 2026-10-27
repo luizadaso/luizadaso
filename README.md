@@ -20,10 +20,6 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 <img src="https://github.com/user-attachments/assets/1c911a8b-34be-428e-9252-941d08e3c7ae" width="100">
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5522999955542&text=Ola,+Encontrei+seu+perfil+no+Github.+Podemos+conversar?">
-<img src="https://github.com/user-attachments/assets/ac54c491-4f10-4942-8930-4f19ff95c10e" width="100">
-</a>
-
 <a href="https://luizadaso-portfolio.vercel.app/">
 <img src="https://github.com/user-attachments/assets/7b7ab452-13cc-4c46-8c35-ac990ddf57db" width="100">
 </a>
