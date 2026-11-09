@@ -50,7 +50,7 @@ Quanto mais me aprofundo, mais eu me apaixono pela programação. A sensação d
 </div>
 
 ### Navegação
-Para uma melhor compreensão e organização dos repositórios, defini um letra antes de cada nome de projeto conforme abaixo, sendo a numeração gerada em ordem de criação dos projetos:
+Para uma melhor compreensão e organização dos repositórios, defini iniciais para marcar o nome de cada projeto conforme abaixo, sendo a numeração gerada em ordem de criação dos projetos:
 
 PP = Projeto Pessoal  
 FP = Projeto de Faculdade  
